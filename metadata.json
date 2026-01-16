@@ -1,0 +1,7 @@
+{
+  "name": "LoanGuard 234",
+  "description": "A premium, trust-focused financial application for safe loan evaluation and verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
